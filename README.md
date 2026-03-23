@@ -40,7 +40,7 @@ Key analysis areas:
    git clone https://github.com/Himank1-tech/Airline-Analysis-PowerBi.git
    cd Airline-Analysis-PowerBi
    ```
-2. Open `Airline_Analysis.pbix` in PowerBI Desktop.
+2. Open `Airline analysis p1.pbix` in PowerBI Desktop.
 3. Refresh data connections if prompted (data sources pre-configured).
 4. Publish to PowerBI Service for sharing (optional):
    ```
